@@ -1,5 +1,8 @@
 package kalai;
 
 public class Apple {
-// some codes
+  private void maoin() {
+	// TODO Auto-generated method stub
+
+}
 }
