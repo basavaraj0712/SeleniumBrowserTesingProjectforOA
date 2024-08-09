@@ -76,7 +76,7 @@ public class Discom {
 	    	  String   PaymentMode = ExcelUtils.getCellData(filepath, "Trader1", i, 33);
 	    	  String   UTRNumber=  ExcelUtils.getCellData(filepath, "Trader1", i, 34);
 	    	  String  BankName=  ExcelUtils.getCellData(filepath, "Trader1", i, 35);
-	    	  String  PANNumber=  ExcelUtils.getCellData(filepath, "Trader1", i, 36);
+	    	  String  PANNumber=  ExcelUtils.getCellData(filepath, "Trader1", i, 36); 
 	    	  String  GSTNumber=  ExcelUtils.getCellData(filepath, "Trader1", i, 37);
 	    	  String  TransactionMonthYear=  ExcelUtils.getCellData(filepath, "Trader1", i, 38); 
 	    	  String  SupportingDocuments=  ExcelUtils.getCellData(filepath, "Trader1", i, 39);  
